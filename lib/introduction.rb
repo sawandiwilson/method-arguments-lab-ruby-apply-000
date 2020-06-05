@@ -1,3 +1,3 @@
 def introduction
-  introduction="Josh".to output("Hi, my name is Josh.")
+puts="Josh".to output("Hi, my name is Josh.")
 end
